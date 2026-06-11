@@ -63,4 +63,4 @@ The full belief system (21 laws + the three-distortions objection taxonomy + buy
 
 ## Source layer
 
-`sources/gym-launch/` (30 transcripts — the course: lead nurture, the Diagnostic Sale, closes, environment) and `sources/youtube/` (6 transcripts — the general system: beliefs, taxonomy, 3A, negotiation). Cleaned verbatim; transcription-loss points are marked `[TRANSCRIPTION GAP …]` — never invent content for those gaps. `sources/INDEX.md` maps every transcript to the reference file(s) that distill it.
+`sources/gym-launch/` (30 transcripts — the course: lead nurture, the Diagnostic Sale, closes, environment) and `sources/youtube/` (6 full transcripts — the general system: beliefs, taxonomy, 3A, negotiation; sourced from YouTube captions, so occasional odd words are caption artifacts). `sources/INDEX.md` maps every transcript to the reference file(s) that distill it.

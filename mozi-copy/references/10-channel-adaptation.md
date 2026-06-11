@@ -60,6 +60,14 @@ The sales conversation (`05`) monologued — you must *play both sides*:
 - Anchor high tier first. Terms move, price doesn't.
 - BAMFAM in writing: the proposal names the next meeting date before they've accepted.
 
+### Enterprise / long-cycle B2B (committees, 6–12 month cycles)
+
+Most of the one-call playbook **does not apply** here — no same-day close, no cash cascade. What transfers, and what changes: *(yt/01)*
+- **Stay in the pocket**: the job is relationship maintenance across the whole cycle — BAMFAM every contact, notes-driven follow-ups (`02`), the 3–6-month pulse rhythm compressed to weeks.
+- **Bond in webs, not threads**: one champion ↔ one rep is a single thread that snaps when either leaves. Connect *multiple* people on both sides (your engineer ↔ their engineer, your CS ↔ their ops) — a network of bonds is what makes the account unbreakable, for them and for you.
+- **Pre-education is the close** (Law 14 at maximum): committees aren't overcome on calls; they're educated between them — case studies, proof, internal-champion ammunition. Write copy your champion can forward.
+- Obstacles-before-price still rules: surface every stakeholder's zombie (procurement, security, the CFO) in discovery, not at signature.
+
 ### "General conversations" (any persuasion: spouse, boss, landlord)
 - 3A everything (`07`).
 - Questions over statements — they believe what they say (Law 3).

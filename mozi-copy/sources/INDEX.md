@@ -1,8 +1,8 @@
 # Source Index & Coverage Matrix
 
-Every transcript, what it teaches, and which reference file(s) distill it. Status: ✅ fully distilled · 🔧 tooling/ops (archived verbatim; copy-relevant fragments distilled) · ⚠️ partial transcription loss (gaps marked in file).
+Every transcript, what it teaches, and which reference file(s) distill it. Status: ✅ fully distilled · 🔧 tooling/ops (archived verbatim; copy-relevant fragments distilled).
 
-## gym-launch/ (Gym Launch 2.0 course — 30 transcripts, clean audio)
+## gym-launch/ (Gym Launch 2.0 course — 30 transcripts, clean audio; files 15 and 28 each contain one small `[TRANSCRIPTION GAP]` marker — never invent content for those spots)
 
 | # | File | Teaches | Distilled into | Status |
 |---|---|---|---|---|
@@ -37,19 +37,13 @@ Every transcript, what it teaches, and which reference file(s) distill it. Statu
 | 29 | 02-prospects-reading-credit-cards | Pre-suasion environment: greeting, sign-in sheet, testimonial walls, cert wall, seating, contract stack | 09 | ✅ |
 | 30 | 03-sign-in-sheet | Sign-in sheet: stats + positioning | 09 | ✅ |
 
-## youtube/ (6 videos, whisper large-v3-turbo — loop artifacts repaired, gaps marked)
+## youtube/ (6 videos — full transcripts from YouTube captions via yt-dlp, 2026-06-12; replaced the earlier lossy whisper versions)
 
 | # | File | Teaches | Distilled into | Status |
 |---|---|---|---|---|
-| 01 | ultimate-sales-training-2026 | Sales multipliers (7 days, <60s/391%, call-now, pull-ups, show-rate plays); team training (drills, game tape, conviction, best-leads-to-best); script adherence; tonality levers; pain cycle; three-pillar pitch + metaphors; all-purpose closes; details-die; AAA summary; decision-maker 4-step; ID close; trash man; "we could do it for more"; objections≠no | 01, 02, 03, 04, 05, 06, 08, 09 | ⚠️ |
-| 02 | sell-better-than-99 (4-hr guide) | 21 beliefs; three distortions (Ellis); time/money/fit/authority/avoidance closes with stories (Sephora, Shoe Dog, Susan, Cheetos, don't-burn-twice, decadere); conviction training (John story, testimonials daily, 60-min schedule); med-spa diagnostic generalization (current→desired→obstacle→vehicle, yogurt-store psychology, secret shopping, upsell 5x); 9-concepts repeat; scaling-team case | 01, 05, 06, 07, 08, 09 | ⚠️ |
-| 03 | 9-concepts | Maximize/convert/consistency; availability; pull-ups; on/off-call SOPs; BAMFAM; kill list; referral asks; prep & notes; listen 2:1; smoke/hot-potato; obstacles vs objections; key stories/metaphors; ghetto tone; confront-up-front; play-it-out; looping; tigers/horses/dogs; lead scoring; track data; never blame circumstances | 01, 02, 03, 06, 07, 08, 09 | ⚠️ |
-| 04 | 3A-reframing-method | Reframing definition; question-the-question; 3A (acknowledge/associate/ask); association types & foils; labeling; ethical rules; keep-the-human-#1 | 07 | ⚠️ |
-| 05 | best-sales-training | Same CoachingCon presentation as the first half of video 02 (used to cross-check/fill 02's gaps); unique fragments: power framing, decision-certainty intro, wife-found-my-time phrasing, Bezos line | 01, 06 (via 02's entries — deduplicated) | ⚠️ |
-| 06 | get-what-you-want-every-time | Negotiation: anchors & competing offers (partially lost); ascribe-price-to-inconvenience; MESOs; horse-trading/positive-sum; framing investment-vs-cost with ROI data | 07 | ⚠️ |
-
-### Known unrecoverable gaps (do not invent)
-- yt/01: parts of the follow-up stats segment, salesperson-comp tangent, all-purpose-close lead-in, enterprise-sales caveat tail.
-- yt/02: fragments of the opening keynote (mostly recovered via yt/05 overlap), parts of the time-close stacking demo, segments of the team-scaling case study (mercenary problems list, metrics Q&A) — team-ops content, low copy impact.
-- yt/04: the middle worked example of Acknowledge ("a question that I had earlier" loop) — the framework itself is fully stated elsewhere in the video.
-- yt/06: most of tactic 1's house-purchase story setup ("you are an employee" loop) — the tactic's conclusion survives and is distilled in `07`.
+| 01 | ultimate-sales-training-2026 | Sales multipliers (7 days, <60s/391%, call-now, 15-min slots, pull-ups/off-call SOP, show-rate plays, feed-the-killers); team training (huddles vs 1-on-1s, game tape w/ CS, conviction via testimonials, record-when-hot, manager≠closer); script adherence + tonality levers; edification flow; pain cycle; three-pillar pitch + metaphors; all-purpose closes; details-die; anti-guarantee; free-content close; decision-maker 4-step; ID close (incl. Zoom); trash man; "we could do it for more"; objections≠no; enterprise caveat; hiring (group interviews, comp-recruits, tigers); sales+marketing continuum; kind≠nice; don't-be-cute; silence; 3–6mo circle-back | 01, 02, 03, 04, 05, 06, 07, 08, 09, 10 | ✅ |
+| 02 | sell-better-than-99 (4-hr guide) | 21 beliefs; three distortions (Ellis) + five manifestations; hidden dialogue (words/tone → logic/emotion brains); time/money/fit/authority/avoidance closes with stories (Sephora, Shoe Dog, Susan, Cheetos w/ generational-health framing, don't-burn-twice + receipt, decadere, rocking chair); four-prerequisites gate; 3-condition decision gate; pain-of-same vs pain-of-change; conviction training (John story, testimonials daily, 60-min drill 25/5/30); Six C's scaling framework; 48h post-close reinforcement + handshake-not-handoff; med-spa diagnostic generalization (current→desired→obstacle→vehicle, yogurt-store psychology, secret shopping, upsell 5x) | 01, 05, 06, 07, 08, 09 | ✅ |
+| 03 | 9-concepts | Maximize/convert/consistency; availability; pull-ups (solar-rep origin); on/off-call SOPs; BAMFAM; kill list; referral asks (80–90% close rate); pre-call preference question; prep ratio & notes; listen 2:1; smoke/hot-potato; obstacles vs objections; key stories/metaphors; ghetto tone; confront-up-front; play-it-out; looping; tigers/horses/dogs; lead scoring; track data; never blame circumstances | 01, 02, 03, 04, 06, 07, 08, 09 | ✅ |
+| 04 | 3A-reframing-method | Reframing definition + unlimited-asking; question-the-question (full re-ask sequences); 3A (acknowledge/associate/ask); association types & foils; labeling (hand out early, harvest at close); "huh" + smile-for-tone; coach-vs-friend permission; time-travel empathy frame; be-the-guide; afraid-of vs main-concern; ethical rules; keep-the-human-#1 | 07 | ✅ |
+| 05 | best-sales-training | ~70% same CoachingCon presentation as video 02 (cross-checked; shared content distilled via 02's entries). Unique ~30%: decision≠buy framing; Ellis history (11→9→7→3); onion-of-blame layers; time/money/fit/avoidance closes in hierarchical form; pain-of-same diagnostic ("move rock bottom"); sunk-cost flip; decision-history close; Confucius hear/see/do; time tax of ignorance; bricks-on-a-bridge; every-decision-is-a-vote; Sam Bakhtiar mastermind origin story | 01, 05, 06, 08, 09 | ✅ |
+| 06 | get-what-you-want-every-time | Negotiation: BATNA (alternatives = power, win before the table); anchoring (gasp rule, Kahneman, increment-signaling, house worked example); classy post-deal line; ascribe-price-to-inconvenience (desk story); MESOs + counter-MESO ("best of all three"); reciprocity precision (culture caveat, value asymmetry); horse-trading/positive-sum (80-variable deal sheet); framing investment-vs-cost with ROI data (pool comps) | 07 | ✅ |

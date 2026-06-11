@@ -29,10 +29,9 @@ cd <repo-root> && rm -f dist/mozi-copy.zip && mkdir -p dist && zip -r dist/mozi-
 
 ## Regenerating sources
 
-`tools/clean_transcripts.py` splits the two raw transcript files into `mozi-copy/sources/`, repairing whisper hallucination loops and marking unrecoverable gaps. Raw uploads are not stored in this repo.
+The Gym Launch sources were split from the raw upload by `tools/clean_transcripts.py`. The YouTube sources are full transcripts re-sourced from YouTube's own captions (via yt-dlp, 2026-06-12), which replaced the original lossy whisper transcripts; occasional odd words are caption artifacts, not edits. Raw uploads are not stored in this repo.
 
 ## Fidelity notes
 
 - Reference files preserve scripts verbatim (lightly cleaned), each with the stated mechanism, a generalized template, and channel adaptation notes.
 - Every technique has exactly one home; other files cross-reference it. The only intentional redundancy is `sources/` (the verbatim archive).
-- Where transcription loops destroyed audio, gaps are marked `[TRANSCRIPTION GAP …]` in sources and listed in `sources/INDEX.md` — nothing was invented to fill them.
