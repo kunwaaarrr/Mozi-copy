@@ -57,7 +57,7 @@ The full belief system (21 laws + the three-distortions objection taxonomy + buy
 
 - Deliver ready-to-send copy first, then (briefly) the mechanism behind the key choices — name the close/technique used so the user learns the system.
 - For sequences, give each touch with its timing (e.g., "Day 1, within 60s — …", "Night before, 8–9pm — …").
-- For objection replies, give 2–3 options at different rapport levels (straight / warm / playful) when tone is uncertain.
+- For objection replies, give 2–3 options at different rapport levels (straight / warm / playful) when tone is uncertain. If the user asked for *one* reply, give one full version and add the rapport variants only for the pivotal line.
 - When the user's ask conflicts with a law (e.g., "write something polite asking if they might be interested"), write the compliant version *and* the system version, and say why the system version converts.
 - Honesty rule: never fabricate scarcity, results, or testimonials. If real proof is missing, ask the user for it or write around it.
 
