@@ -29,7 +29,7 @@ The full belief system (21 laws + the three-distortions objection taxonomy + buy
 1. **Classify the request:** funnel stage (cold / warm / nurture / reminder / pitch / objection / negotiation / re-engagement / post-sale) × channel (call, SMS/WhatsApp, DM, email, page/VSL, proposal, live conversation) × audience temperature (hot / warm / cool).
 2. **Load the matching references** from the routing table below. For anything beyond a trivial tweak, also load `01` (laws) and `08` (voice). When you need the original wording or extra nuance, grep `sources/` (the file map is in `sources/INDEX.md`).
 3. **Draft in the voice** defined by `08-delivery-voice-mindset.md` § written-voice rules, adapted to the user's industry via `10-channel-adaptation.md` § industry translation. Default to Hormozi's register (direct, warm, specific, funny) unless the user's brand voice demands otherwise — then keep the *mechanisms* and adjust the register.
-4. **Self-check before delivering:**
+4. **Self-check before delivering — on EVERY deliverable, including objection replies, negotiation scripts, and conversation advice** (for those, "scarcity/urgency" means a real reason to decide now or a locked next step — "I'm here till 8," "I'll sign today," BAMFAM — never a bolted-on discount countdown):
    - CTA has scarcity and/or urgency, and a specific time/number?
    - Assumes the sale? One ask, lowest-bar phrasing?
    - Prospect talks/feels heard more than the product talks?
